@@ -7,6 +7,7 @@ Data structures / algorithms
 * [aysylu/loom](https://github.com/aysylu/loom): Graph library for Clojure.
 * [Engelberg/ubergraph](https://github.com/Engelberg/ubergraph): An all-purpose Clojure graph data structure that implements Loom protocols and more.
 * [ont-app/igraph](https://github.com/ont-app/igraph): IGraph defines a protocol which aims to provide a general interface to a variety of graph-based representations.
+* [totakke/jungerer](https://github.com/totakke/jungerer): Clojure network/graph library wrapping JUNG.
 * [nwjsmith/generators.graph](https://github.com/nwjsmith/generators.graph): test.check generators for graph data.
 
 Visualisation
@@ -21,7 +22,7 @@ Labeled-property graph databases use complex graph models where edges and vertic
 * [gorillalabs/neo4j-clj](https://github.com/gorillalabs/neo4j-clj): Clojuresque client to Neo4j database, based upon the bolt protocol.
 * [full-spectrum/neo4clj](https://github.com/full-spectrum/neo4clj): Neo4clj is a idomatic clojure client, exclusivly using Bolt for performance.         
 
-### RDF
+### RDF + OWL
 RDF triplestores are a specialised type of graph database for representing knowledge graphs; part of the W3C Semantic Web standards.
 
 * [arachne-framework/aristotle](https://github.com/arachne-framework/aristotle): An RDF/OWL library for Clojure, providing a data-oriented wrapper for Apache Jena.
@@ -31,6 +32,8 @@ RDF triplestores are a specialised type of graph database for representing knowl
 * [fluree/db](https://github.com/fluree/db): Fluree is an immutable, temporal, ledger-backed semantic graph database that has a cloud-native architecture.
 * [Swirrl/csv2rdf](https://github.com/Swirrl/csv2rdf): Clojure library and application for converting CSV to RDF.
 * [ont-app/vocabulary](https://github.com/ont-app/vocabulary): Utilities to map between clojure namespaced keywords and RDF-style URIs.
+* [phillord/tawny-owl](https://github.com/phillord/tawny-owl): Tawny-OWL allows construction of OWL ontologies, in a evaluative, functional and fully programmatic environment.
+  - [phillord/owl-primer](https://github.com/phillord/owl-primer): The Ontology from the owl-primer written using Tawny-OWL.
 
 ### Datalog
 Clojure's Datomic-like databases also model data as triplets... or technically as quintuplets AKA datoms.
