@@ -58,6 +58,10 @@ Clojure's Datomic-like databases also model data as triplets... or technically a
 * [threatgrid/naga](https://github.com/threatgrid/naga): Datalog based rules engine.
 * [den1k/nldl](https://github.com/den1k/nldl): Natural Language for Clojure's Datalog flavor as present in Datomic, Datascript, Datahike etc.
 
+Miscellaneous
+------------
+* [simongray/Computerese](https://github.com/simongray/Computerese): Stanford CoreNLP in idiomatic Clojure. Support for dependency grammar graphs, pattern matching, and visualisation.
+
 Community
 ---------
 RDF has a small, but steady Clojure following. People are using Neo4j with Clojure, but not talking much about it. Datomic-like Datalog databases have the most momentum.
