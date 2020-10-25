@@ -7,6 +7,7 @@ Data structures / algorithms
 * [aysylu/loom](https://github.com/aysylu/loom): Graph library for Clojure.
 * [Engelberg/ubergraph](https://github.com/Engelberg/ubergraph): An all-purpose Clojure graph data structure that implements Loom protocols and more.
 * [ont-app/igraph](https://github.com/ont-app/igraph): IGraph defines a protocol which aims to provide a general interface to a variety of graph-based representations.
+* [nwjsmith/generators.graph](https://github.com/nwjsmith/generators.graph): test.check generators for graph data.
 
 Visualisation
 -------------
