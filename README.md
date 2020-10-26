@@ -72,6 +72,7 @@ Queries
 
 Miscellaneous
 ------------
+* [plumatic/plumbing](https://github.com/plumatic/plumbing): Plumbing and Graph: the Clojure utility belt. Graph is a simple and declarative way to specify a structured computation, which is easy to analyze, change, compose, and monitor.
 * [simongray/Computerese](https://github.com/simongray/Computerese): Stanford CoreNLP in idiomatic Clojure. Support for dependency grammar graphs, pattern matching, and visualisation.
 
 Community
