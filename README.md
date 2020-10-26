@@ -29,8 +29,9 @@ RDF triplestores are a specialised type of graph database for representing knowl
   - [ont-app/igraph-jena](https://github.com/ont-app/igraph-jena): This is a port of the Jena APIs to the IGraph protocol.
 * [Swirrl/grafter](https://github.com/Swirrl/grafter): Linked Data & RDF Manufacturing Tools in Clojure.
   - [ont-app/igraph-grafter](https://github.com/ont-app/igraph-grafter): A port of the IGraph protocols to the Grafter protocols.
+  - [Matcha](https://github.com/Swirrl/matcha) In memory schemaless triplestore with a SPARQL-like DSL.
 * [fluree/db](https://github.com/fluree/db): Fluree is an immutable, temporal, ledger-backed semantic graph database that has a cloud-native architecture.
-* [Swirrl/csv2rdf](https://github.com/Swirrl/csv2rdf): Clojure library and application for converting CSV to RDF.
+* [Swirrl/csv2rdf](https://github.com/Swirrl/csv2rdf): Clojure library and application implementing the [W3C CSV on the Web tabular metadata specifications](https://w3c.github.io/csvw/) for converting CSV to RDF.
 * [ont-app/vocabulary](https://github.com/ont-app/vocabulary): Utilities to map between clojure namespaced keywords and RDF-style URIs.
 * [phillord/tawny-owl](https://github.com/phillord/tawny-owl): Tawny-OWL allows construction of OWL ontologies, in a evaluative, functional and fully programmatic environment.
   - [phillord/owl-primer](https://github.com/phillord/owl-primer): The Ontology from the owl-primer written using Tawny-OWL.
