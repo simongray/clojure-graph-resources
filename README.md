@@ -64,6 +64,12 @@ Clojure's Datomic-like databases also model data as triplets... or technically a
 * [den1k/subgraph](https://github.com/den1k/subgraph): Reactive graph database for re-frame; a Fork of stuartsierra/mapgraph.
 * [keechma/keechma-entitydb](https://github.com/keechma/keechma-entitydb): EntityDB is a client side database and normalization engine.
 
+Queries
+-------
+* [edn-query-language/eql](https://github.com/edn-query-language/eql): EQL is a declarative way to make hierarchical (and possibly nested) selections of information about data requirements.
+  - [wilkerlucio/pathom](https://github.com/wilkerlucio/pathom): Pathom is a Clojure(script) engine for processing EQL requests.
+* [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia): This library is a full implementation of Facebook's GraphQL specification.
+
 Miscellaneous
 ------------
 * [simongray/Computerese](https://github.com/simongray/Computerese): Stanford CoreNLP in idiomatic Clojure. Support for dependency grammar graphs, pattern matching, and visualisation.
