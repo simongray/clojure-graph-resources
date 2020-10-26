@@ -58,6 +58,12 @@ Clojure's Datomic-like databases also model data as triplets... or technically a
 * [threatgrid/naga](https://github.com/threatgrid/naga): Datalog based rules engine.
 * [den1k/nldl](https://github.com/den1k/nldl): Natural Language for Clojure's Datalog flavor as present in Datomic, Datascript, Datahike etc.
 
+### Other
+
+* [stuartsierra/mapgraph](https://github.com/stuartsierra/mapgraph): Basic in-memory graph database of maps with links.
+* [den1k/subgraph](https://github.com/den1k/subgraph): Reactive graph database for re-frame; a Fork of stuartsierra/mapgraph.
+* [keechma/keechma-entitydb](https://github.com/keechma/keechma-entitydb): EntityDB is a client side database and normalization engine.
+
 Miscellaneous
 ------------
 * [simongray/Computerese](https://github.com/simongray/Computerese): Stanford CoreNLP in idiomatic Clojure. Support for dependency grammar graphs, pattern matching, and visualisation.
