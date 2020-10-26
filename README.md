@@ -28,9 +28,10 @@ RDF triplestores are a specialised type of graph database for representing knowl
 * [arachne-framework/aristotle](https://github.com/arachne-framework/aristotle): An RDF/OWL library for Clojure, providing a data-oriented wrapper for Apache Jena.
   - [ont-app/igraph-jena](https://github.com/ont-app/igraph-jena): This is a port of the Jena APIs to the IGraph protocol.
 * [Swirrl/grafter](https://github.com/Swirrl/grafter): Linked Data & RDF Manufacturing Tools in Clojure.
+  - [Swirrl/matcha](https://github.com/Swirrl/matcha) In-memory, schemaless triplestore with a SPARQL-like DSL.
   - [ont-app/igraph-grafter](https://github.com/ont-app/igraph-grafter): A port of the IGraph protocols to the Grafter protocols.
 * [fluree/db](https://github.com/fluree/db): Fluree is an immutable, temporal, ledger-backed semantic graph database that has a cloud-native architecture.
-* [Swirrl/csv2rdf](https://github.com/Swirrl/csv2rdf): Clojure library and application for converting CSV to RDF.
+* [Swirrl/csv2rdf](https://github.com/Swirrl/csv2rdf): Clojure library and application implementing the [W3C CSV on the Web tabular metadata specifications](https://w3c.github.io/csvw/) for converting CSV to RDF.
 * [ont-app/vocabulary](https://github.com/ont-app/vocabulary): Utilities to map between clojure namespaced keywords and RDF-style URIs.
 * [phillord/tawny-owl](https://github.com/phillord/tawny-owl): Tawny-OWL allows construction of OWL ontologies, in a evaluative, functional and fully programmatic environment.
   - [phillord/owl-primer](https://github.com/phillord/owl-primer): The Ontology from the owl-primer written using Tawny-OWL.
@@ -61,7 +62,7 @@ Clojure's Datomic-like databases also model data as triplets... or technically a
 ### Other
 
 * [stuartsierra/mapgraph](https://github.com/stuartsierra/mapgraph): Basic in-memory graph database of maps with links.
-* [den1k/subgraph](https://github.com/den1k/subgraph): Reactive graph database for re-frame; a Fork of stuartsierra/mapgraph.
+* [den1k/subgraph](https://github.com/den1k/subgraph): Reactive graph database for re-frame; a fork of stuartsierra/mapgraph.
 * [keechma/keechma-entitydb](https://github.com/keechma/keechma-entitydb): EntityDB is a client side database and normalization engine.
 
 Queries
