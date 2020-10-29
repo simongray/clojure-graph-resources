@@ -36,6 +36,7 @@ RDF triplestores are a specialised type of graph database for representing knowl
 * [ont-app/vocabulary](https://github.com/ont-app/vocabulary): Utilities to map between clojure namespaced keywords and RDF-style URIs.
 * [phillord/tawny-owl](https://github.com/phillord/tawny-owl): Tawny-OWL allows construction of OWL ontologies, in a evaluative, functional and fully programmatic environment.
   - [phillord/owl-primer](https://github.com/phillord/owl-primer): The Ontology from the owl-primer written using Tawny-OWL.
+* [sam_russell/porta-owl-sqwrl](https://gitlab.com/sam_russell/porta-owl-sqwrl): (GITLAB) A Clojure domain-specific language for Web Ontology Language (OWL) and Semantic (Query) Web Rule Language (SQWRL).
 
 ### Datalog
 Clojure's Datomic-like databases also model data as triplets... or technically as quintuplets AKA datoms.
