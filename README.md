@@ -63,6 +63,7 @@ Clojure's Datomic-like databases also model data as triplets... or technically a
 
 ### Other
 
+* [clojurewerkz/ogre](https://github.com/clojurewerkz/ogre): Ogre is a Clojure Gremlin Language Variant of the Gremlin graph traversal language from Apache Tinkerpop, which is an open source, vendor-agnostic, graph computing framework.
 * [stuartsierra/mapgraph](https://github.com/stuartsierra/mapgraph): Basic in-memory graph database of maps with links.
 * [den1k/subgraph](https://github.com/den1k/subgraph): Reactive graph database for re-frame; a fork of stuartsierra/mapgraph.
 * [keechma/keechma-entitydb](https://github.com/keechma/keechma-entitydb): EntityDB is a client side database and normalization engine.
