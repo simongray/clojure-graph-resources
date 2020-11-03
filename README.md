@@ -8,7 +8,6 @@ Data structures / algorithms
 * [Engelberg/ubergraph](https://github.com/Engelberg/ubergraph): An all-purpose Clojure graph data structure that implements Loom protocols and more.
 * [ont-app/igraph](https://github.com/ont-app/igraph): IGraph defines a protocol which aims to provide a general interface to a variety of graph-based representations.
 * [totakke/jungerer](https://github.com/totakke/jungerer): Clojure network/graph library wrapping JUNG.
-* [nwjsmith/generators.graph](https://github.com/nwjsmith/generators.graph): test.check generators for graph data.
 
 Visualisation
 -------------
@@ -79,6 +78,7 @@ Miscellaneous
 * [fulcrologic/fulcro](https://github.com/fulcrologic/fulcro): Fulcro is a full-stack web framework where a single underlying graph acts as the shared data model of both backend and frontend.
 * [plumatic/plumbing](https://github.com/plumatic/plumbing): Plumbing and Graph: the Clojure utility belt. Graph is a simple and declarative way to specify a structured computation, which is easy to analyze, change, compose, and monitor.
 * [simongray/Computerese](https://github.com/simongray/Computerese): Stanford CoreNLP in idiomatic Clojure. Support for dependency grammar graphs, pattern matching, and visualisation.
+* [nwjsmith/generators.graph](https://github.com/nwjsmith/generators.graph): test.check generators for graph data.
 
 Community
 ---------
