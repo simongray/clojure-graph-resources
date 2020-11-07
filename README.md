@@ -12,6 +12,7 @@ Data structures / algorithms
 Visualisation
 -------------
 * [jebberjeb/specviz](https://github.com/jebberjeb/specviz): Generate Graphviz images from clojure.spec.
+* [benedekfazekas/morpheus](https://github.com/benedekfazekas/morpheus): Generate dependency graph(s) for variables in Clojure(Script) namespaces.
 
 Databases
 ---------
