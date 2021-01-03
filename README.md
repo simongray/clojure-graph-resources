@@ -13,6 +13,7 @@ Visualisation
 -------------
 * [jebberjeb/specviz](https://github.com/jebberjeb/specviz): Generate Graphviz images from clojure.spec.
 * [benedekfazekas/morpheus](https://github.com/benedekfazekas/morpheus): Generate dependency graph(s) for variables in Clojure(Script) namespaces.
+* [jafingerhut/cljol](https://github.com/jafingerhut/cljol): Visualise the memory usage of a Java object and all the objects that it references as a graph.
 
 Databases
 ---------
