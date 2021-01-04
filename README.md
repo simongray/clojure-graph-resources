@@ -2,6 +2,8 @@ Clojure graph resources
 =======================
 This is a curated list of mostly mature and/or actively developed Clojure resources relevant for dealing with graph-like data. It's currently being expanded as I explore this area more thoroughly. Suggestions are welcome in the form of pull requests or Github issues. I try to steer around abandonware, though.
 
+> If you're interested in DSLs and parsing, be sure to check out [clojure-dsl-resources](https://github.com/simongray/clojure-dsl-resources) too.
+
 Data structures / algorithms
 ----------------------------
 * [aysylu/loom](https://github.com/aysylu/loom): Graph library for Clojure.
