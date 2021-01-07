@@ -77,6 +77,7 @@ Queries
 -------
 * [edn-query-language/eql](https://github.com/edn-query-language/eql): EQL is a declarative way to make hierarchical (and possibly nested) selections of information about data requirements.
   - [wilkerlucio/pathom](https://github.com/wilkerlucio/pathom): Pathom is a Clojure(script) engine for processing EQL requests.
+    * [wilkerlucio/pathom3](https://github.com/wilkerlucio/pathom3): Pathom3 is a redesign of Pathom.
   - [graphqlize/honeyeql](https://github.com/graphqlize/honeyeql): HoneyEQL transforms EQL into efficient SQL.
     https://github.com/graphqlize/graphqlize
 * [sixthnormal/pullql](https://github.com/sixthnormal/pullql): A GraphQL-like query language for DataScript, optimized for execution across many entities at once.
