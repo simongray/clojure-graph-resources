@@ -12,6 +12,7 @@ Data structures / algorithms
 * [totakke/jungerer](https://github.com/totakke/jungerer): Clojure network/graph library wrapping JUNG.
 * [pangloss/fermor](https://github.com/pangloss/fermor): Fast, powerful, general-purpose graph traversal and modelling tools plus a performant immutable in-memory graph database.
 * [ekoontz/dag-unify](https://github.com/ekoontz/dag-unify): A Clojure library for combining directed acyclic graphs (DAGs) via unification.
+* [aroemers/rmap](https://github.com/aroemers/rmap): Clojure library for defining recursive maps; literally, programmatically and with pure data.
 
 Visualisation
 -------------
