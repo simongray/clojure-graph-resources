@@ -81,6 +81,7 @@ Clojure's Datomic-like databases also model data as triplets... or technically a
 Queries
 -------
 * [edn-query-language/eql](https://github.com/edn-query-language/eql): EQL is a declarative way to make hierarchical (and possibly nested) selections of information about data requirements.
+  - [souenzzo/eql-style-guide](https://github.com/souenzzo/eql-style-guide): This guide covers both EQL as an abstract API and common library usage, like fulcro and pathom.
   - [wilkerlucio/pathom](https://github.com/wilkerlucio/pathom): Pathom is a Clojure(script) engine for processing EQL requests.
     * [wilkerlucio/pathom3](https://github.com/wilkerlucio/pathom3): Pathom3 is a redesign of Pathom.
     * [jlesquembre/pathom-pedestal](https://github.com/jlesquembre/pathom-pedestal): A library to integrate pathom and pedestal.
