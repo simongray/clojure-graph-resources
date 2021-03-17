@@ -10,6 +10,7 @@ Data structures / algorithms
 * [Engelberg/ubergraph](https://github.com/Engelberg/ubergraph): An all-purpose Clojure graph data structure that implements Loom protocols and more.
 * [ont-app/igraph](https://github.com/ont-app/igraph): IGraph defines a protocol which aims to provide a general interface to a variety of graph-based representations.
 * [totakke/jungerer](https://github.com/totakke/jungerer): Clojure network/graph library wrapping JUNG.
+* [pangloss/fermor](https://github.com/pangloss/fermor): Fast, powerful, general-purpose graph traversal and modelling tools plus a performant immutable in-memory graph database.
 * [ekoontz/dag-unify](https://github.com/ekoontz/dag-unify): A Clojure library for combining directed acyclic graphs (DAGs) via unification.
 
 Visualisation
