@@ -56,6 +56,7 @@ Clojure's Datomic-like databases also model data as triplets... or technically a
   - [mpdairy/posh](https://github.com/mpdairy/posh): Posh is a ClojureScript / React library that lets you use a single DataScript database to store your app state.
   - [denistakeda/re-posh](https://github.com/denistakeda/re-posh): Re-posh allows Posh and re-frame to work together by adding support for re-frame specific subscriptions, events, effects, and co-effects to Posh.
   - [metasoarous/datsync](https://github.com/metasoarous/datsync): This library offers tools for building DataScript databases as materialized views (very much in the re-frame/samsa sense) of some master/central Datomic database.
+  - [frankiesardo/minikusari](https://github.com/frankiesardo/minikusari): minikusari is a minimal rule engine built on top of Datascript (and can work with Datomic or Datahike).
   - [ont-app/datascript-graph](https://github.com/ont-app/datascript-graph): An implementation of the IGraph protocol extended to datascript.
 * [replikativ/datahike](https://github.com/replikativ/datahike): Datahike is a durable Datalog database powered by an efficient Datalog query engine.
   - [replikativ/datahike-frontend](https://github.com/replikativ/datahike-frontend): A front-end to Datahike written in Fulcro.
