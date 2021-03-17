@@ -16,6 +16,7 @@ Data structures / algorithms
 
 Visualisation
 -------------
+* [chrismurrph/show-graph](https://github.com/chrismurrph/show-graph): Translates a particular directed graph data structure (graph with vertices and edges) into a JavaFX view that can be seen from Reveal.
 * [jebberjeb/specviz](https://github.com/jebberjeb/specviz): Generate Graphviz images from clojure.spec.
 * [benedekfazekas/morpheus](https://github.com/benedekfazekas/morpheus): Generate dependency graph(s) for variables in Clojure(Script) namespaces.
 * [jpmonettas/clograms](https://github.com/jpmonettas/clograms): Clojure[Script] source code diagrams.
