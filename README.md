@@ -100,6 +100,10 @@ Miscellaneous
 * [simongray/datalinguist](https://github.com/simongray/datalinguist): Stanford CoreNLP in idiomatic Clojure. Support for dependency grammar graphs, pattern matching, and visualisation.
 * [nwjsmith/generators.graph](https://github.com/nwjsmith/generators.graph): test.check generators for graph data.
 
+Articles/video
+--------------
+* [Domain modeling with Datalog](https://www.youtube.com/watch?v=oo-7mN9WXTw)
+
 Community
 ---------
 RDF has a small, but steady Clojure following. People are using Neo4j with Clojure, but not talking much about it. Datomic-like Datalog databases have the most momentum.
