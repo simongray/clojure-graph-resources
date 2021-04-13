@@ -47,7 +47,7 @@ RDF triplestores are a specialised type of graph database for representing knowl
 * [sam_russell/porta-owl-sqwrl](https://gitlab.com/sam_russell/porta-owl-sqwrl): (GITLAB) A Clojure domain-specific language for Web Ontology Language (OWL) and Semantic (Query) Web Rule Language (SQWRL).
 
 ### Datalog
-Clojure's Datomic-like databases also model data as triplets... or technically as quintuplets AKA datoms.
+Clojure's Datomic-like databases also model data as triplets... or in some cases technically as quintuplets AKA datoms. See [clojurelog.github.io](https://clojurelog.github.io/) for a comparison of some of the Datalog database options listed below.
 
 * [Datomic.com](https://www.datomic.com/): _(PROPRIETARY)_ A transactional database with a flexible data model, elastic scaling, and rich queries.
   - [vvvvalvalval/datofu](https://github.com/vvvvalvalval/datofu): This library provides common utilities for working with Datomic, mostly in the form of database functions.
