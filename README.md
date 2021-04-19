@@ -68,6 +68,7 @@ Clojure's Datomic-like databases also model data as triplets... or in some cases
   - [threatgrid/asami-loom](https://github.com/threatgrid/asami-loom): This library extends Asami in-memory graphs to Loom.
 * [juxt/crux](https://github.com/juxt/crux): Crux is a general purpose database with graph-oriented bitemporal indexes.
 * [Workiva/eva](https://github.com/Workiva/eva): Eva is a distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent.
+* [ribelo/doxa](https://github.com/ribelo/doxa/): An in-memory datalog database implemented with [Meander](https://github.com/noprompt/meander).
 * [threatgrid/naga](https://github.com/threatgrid/naga): Datalog based rules engine.
 * [den1k/nldl](https://github.com/den1k/nldl): Natural Language for Clojure's Datalog flavor as present in Datomic, Datascript, Datahike etc.
 
