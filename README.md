@@ -104,6 +104,7 @@ Miscellaneous
 Articles/video
 --------------
 * [Domain modeling with Datalog](https://www.youtube.com/watch?v=oo-7mN9WXTw)
+* [Introduction to Asami queries](https://github.com/threatgrid/asami/wiki/Introduction)
 
 Community
 ---------
