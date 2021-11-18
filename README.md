@@ -62,6 +62,7 @@ Clojure's Datomic-like databases also model data as triplets... or in some cases
   - [metasoarous/datsync](https://github.com/metasoarous/datsync): This library offers tools for building DataScript databases as materialized views (very much in the re-frame/samsa sense) of some master/central Datomic database.
   - [frankiesardo/minikusari](https://github.com/frankiesardo/minikusari): minikusari is a minimal rule engine built on top of Datascript (and can work with Datomic or Datahike).
   - [ont-app/datascript-graph](https://github.com/ont-app/datascript-graph): An implementation of the IGraph protocol extended to datascript.
+* [mhuebert/re-db](https://github.com/mhuebert/re-db): Attempts to be a fast, reactive, client-side triple-store for handling global state in ClojureScript apps, inspired by Datomic/DataScript, working in conjunction with Reagent.
 * [replikativ/datahike](https://github.com/replikativ/datahike): Datahike is a durable Datalog database powered by an efficient Datalog query engine.
   - [replikativ/datahike-frontend](https://github.com/replikativ/datahike-frontend): A front-end to Datahike written in Fulcro.
 * [juji-io/datalevin](https://github.com/juji-io/datalevin): Datalevin is a simple durable Datalog database.
