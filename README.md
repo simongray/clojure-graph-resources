@@ -13,6 +13,7 @@ Data structures / algorithms
 * [pangloss/fermor](https://github.com/pangloss/fermor): Fast, powerful, general-purpose graph traversal and modelling tools plus a performant immutable in-memory graph database.
 * [ekoontz/dag-unify](https://github.com/ekoontz/dag-unify): A Clojure library for combining directed acyclic graphs (DAGs) via unification.
 * [aroemers/rmap](https://github.com/aroemers/rmap): Clojure library for defining recursive maps; literally, programmatically and with pure data.
+* [cjsauer/joinery](https://github.com/cjsauer/joinery): Enables traversal of in-memory graph-like data structures using Clojure(Script)'s map protocols.
 
 Visualisation
 -------------
