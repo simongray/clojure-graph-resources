@@ -52,6 +52,7 @@ Clojure's Datomic-like databases also model data as triplets... or in some cases
 
 * [Datomic.com](https://www.datomic.com/): _(PROPRIETARY)_ A transactional database with a flexible data model, elastic scaling, and rich queries.
   - [vvvvalvalval/datofu](https://github.com/vvvvalvalval/datofu): This library provides common utilities for working with Datomic, mostly in the form of database functions.
+  - [avescodes/conformity](https://github.com/avescodes/conformity): A Clojure/Datomic library for idempotently transacting norms into your database.
   - [vvvvalvalval/datalog-rules](https://github.com/vvvvalvalval/datalog-rules): Utilities for managing Datalog rulesets from Clojure.
   - [JarrodCTaylor/schema-cartographer](https://github.com/JarrodCTaylor/schema-cartographer): Schema Cartographer provides a means to visualize, navigate, create, edit and share the relationships that exist in your Datomic schema.
   - [Provisdom/spectomic](https://github.com/Provisdom/spectomic): Generate Datomic or Datascript schema from your Clojure(script) specs.
