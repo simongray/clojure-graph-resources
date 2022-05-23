@@ -68,6 +68,7 @@ Clojure's Datomic-like databases also model data as triplets... or in some cases
 * [mhuebert/re-db](https://github.com/mhuebert/re-db): Attempts to be a fast, reactive, client-side triple-store for handling global state in ClojureScript apps, inspired by Datomic/DataScript, working in conjunction with Reagent.
 * [replikativ/datahike](https://github.com/replikativ/datahike): Datahike is a durable Datalog database powered by an efficient Datalog query engine.
   - [replikativ/datahike-frontend](https://github.com/replikativ/datahike-frontend): A front-end to Datahike written in Fulcro.
+  - [lambdaforge/datalog-parser](https://github.com/lambdaforge/datalog-parser): This parser is used by Datahike and follows the Datalog dialect of Datomic.
 * [juji-io/datalevin](https://github.com/juji-io/datalevin): Datalevin is a simple durable Datalog database.
 * [quoll/asami](https://github.com/quoll/asami): A graph database, for Clojure and ClojureScript.
   - [quoll/asami-loom](https://github.com/quoll/asami-loom): This library extends Asami in-memory graphs to Loom.
