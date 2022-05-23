@@ -90,12 +90,12 @@ Queries
     * [wilkerlucio/pathom3](https://github.com/wilkerlucio/pathom3): Pathom3 is a redesign of Pathom.
     * [jlesquembre/pathom-pedestal](https://github.com/jlesquembre/pathom-pedestal): A library to integrate pathom and pedestal.
   - [graphqlize/honeyeql](https://github.com/graphqlize/honeyeql): HoneyEQL transforms EQL into efficient SQL.
-    https://github.com/graphqlize/graphqlize
   - [lilactown/autonormal](https://github.com/lilactown/autonormal): a library for storing and querying graph data in a Clojure map using EQL.
 * [sixthnormal/pullql](https://github.com/sixthnormal/pullql): A GraphQL-like query language for DataScript, optimized for execution across many entities at once.
 * [walkable-server/walkable](https://github.com/walkable-server/walkable): A Clojure(script) SQL library for building APIs: Datomic® (GraphQL-ish) pull syntax, data driven configuration, dynamic filtering with relations in mind.
 * [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia): This library is a full implementation of Facebook's GraphQL specification.
 * [graphqlize/graphqlize](https://github.com/graphqlize/graphqlize): A library for creating a GraphQL API for a Postgres or MySQL database.
+* [timrichardt/hicgql](https://github.com/timrichardt/hicgql): GraphQL in Clojure data structures.
 
 Miscellaneous
 ------------
