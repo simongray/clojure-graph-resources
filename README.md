@@ -105,6 +105,7 @@ Miscellaneous
 * [simongray/datalinguist](https://github.com/simongray/datalinguist): Stanford CoreNLP in idiomatic Clojure. Support for dependency grammar graphs, pattern matching, and visualisation.
 * [nwjsmith/generators.graph](https://github.com/nwjsmith/generators.graph): test.check generators for graph data.
 * [jackrusher/mundaneum](https://github.com/jackrusher/mundaneum): A clojure wrapper around WikiData.
+* [Swirrl/cubiql](https://github.com/Swirrl/cubiql): A proof of concept GraphQL service for querying Linked Data Cubes.
 
 Articles/video
 --------------
