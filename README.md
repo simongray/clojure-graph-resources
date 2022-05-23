@@ -103,6 +103,7 @@ Miscellaneous
 * [plumatic/plumbing](https://github.com/plumatic/plumbing): Plumbing and Graph: the Clojure utility belt. Graph is a simple and declarative way to specify a structured computation, which is easy to analyze, change, compose, and monitor.
 * [simongray/datalinguist](https://github.com/simongray/datalinguist): Stanford CoreNLP in idiomatic Clojure. Support for dependency grammar graphs, pattern matching, and visualisation.
 * [nwjsmith/generators.graph](https://github.com/nwjsmith/generators.graph): test.check generators for graph data.
+* [jackrusher/mundaneum](https://github.com/jackrusher/mundaneum): A clojure wrapper around WikiData.
 
 Articles/video
 --------------
