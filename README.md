@@ -66,8 +66,8 @@ Clojure's Datomic-like databases also model data as triplets... or in some cases
 * [replikativ/datahike](https://github.com/replikativ/datahike): Datahike is a durable Datalog database powered by an efficient Datalog query engine.
   - [replikativ/datahike-frontend](https://github.com/replikativ/datahike-frontend): A front-end to Datahike written in Fulcro.
 * [juji-io/datalevin](https://github.com/juji-io/datalevin): Datalevin is a simple durable Datalog database.
-* [threatgrid/asami](https://github.com/threatgrid/asami): An in-memory graph database, for Clojure and ClojureScript.
-  - [threatgrid/asami-loom](https://github.com/threatgrid/asami-loom): This library extends Asami in-memory graphs to Loom.
+* [quoll/asami](https://github.com/quoll/asami): A graph database, for Clojure and ClojureScript.
+  - [quoll/asami-loom](https://github.com/quoll/asami-loom): This library extends Asami in-memory graphs to Loom.
 * [juxt/crux](https://github.com/juxt/crux): Crux is a general purpose database with graph-oriented bitemporal indexes.
 * [Workiva/eva](https://github.com/Workiva/eva): Eva is a distributed database-system implementing an entity-attribute-value data-model that is time-aware, accumulative, and atomically consistent.
 * [ribelo/doxa](https://github.com/ribelo/doxa/): An in-memory datalog database implemented with [Meander](https://github.com/noprompt/meander).
@@ -107,7 +107,7 @@ Articles/video
 --------------
 * [Open Source Clojure-Datalog Databases](https://clojurelog.github.io/)
 * [Domain modeling with Datalog](https://www.youtube.com/watch?v=oo-7mN9WXTw)
-* [Introduction to Asami queries](https://github.com/threatgrid/asami/wiki/Introduction)
+* [Introduction to Asami](https://github.com/threatgrid/asami/wiki/2.-Introduction)
 
 Community
 ---------
