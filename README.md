@@ -116,7 +116,7 @@ Miscellaneous
 * [Swirrl/cubiql](https://github.com/Swirrl/cubiql): A proof of concept GraphQL service for querying Linked Data Cubes.
 
 ### Personal knowledge graphs
-It is perhaps worth mentioning that several tools have been written in Clojure for making personal knowledge graphs through note-taking. The first one to appear was [Roam Research](https://roamresearch.com/) (proprietary). It has since inspired [Athens Research](https://github.com/athensresearch/athens) (open source, commercial) and [logseq](https://github.com/logseq/logseq) (open source, community-driven). These tools are all based on libraries listed in the Datalog section.
+It is perhaps worth mentioning that several tools have been written in Clojure for making personal knowledge graphs through note-taking. The first one to appear was [Roam Research](https://roamresearch.com/) (proprietary). It has since inspired [Athens Research](https://github.com/athensresearch/athens) (open source, commercial) and [Logseq](https://github.com/logseq/logseq) (open source, community-driven). These tools are all based on libraries listed in the Datalog section.
 
 Articles/video
 --------------
