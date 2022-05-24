@@ -104,6 +104,7 @@ Queries
 * [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia): This library is a full implementation of Facebook's GraphQL specification.
 * [graphqlize/graphqlize](https://github.com/graphqlize/graphqlize): A library for creating a GraphQL API for a Postgres or MySQL database.
 * [timrichardt/hicgql](https://github.com/timrichardt/hicgql): GraphQL in Clojure data structures.
+* [ivarref/clj-paginate](https://github.com/ivarref/clj-paginate): Pagination of vectors and maps with Clojure for GraphQL
 
 Miscellaneous
 ------------
