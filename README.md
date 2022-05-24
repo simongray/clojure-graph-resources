@@ -58,6 +58,7 @@ Clojure's Datomic-like databases also model data as triplets... or in some cases
   - [vvvvalvalval/datalog-rules](https://github.com/vvvvalvalval/datalog-rules): Utilities for managing Datalog rulesets from Clojure.
   - [JarrodCTaylor/schema-cartographer](https://github.com/JarrodCTaylor/schema-cartographer): Schema Cartographer provides a means to visualize, navigate, create, edit and share the relationships that exist in your Datomic schema.
   - [Provisdom/spectomic](https://github.com/Provisdom/spectomic): Generate Datomic or Datascript schema from your Clojure(script) specs.
+  - [ivarref/gen-fn](https://github.com/ivarref/gen-fn): Generate Datomic function literals from regular Clojure namespaces (on-prem).
   - [ont-app/datomic-client](https://github.com/ont-app/datomic-client): Ports the Datomic Client to the IGraph protocols.
 * [tonsky/datascript](https://github.com/tonsky/datascript): An immutable in-memory database and Datalog query engine in Clojure and ClojureScript.
   - [mpdairy/posh](https://github.com/mpdairy/posh): Posh is a ClojureScript / React library that lets you use a single DataScript database to store your app state.
