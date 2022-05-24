@@ -126,5 +126,6 @@ RDF has a small, but steady Clojure following. People are using Neo4j with Cloju
   - [#datomic](https://clojurians.slack.com/archives/C03RZMDSH)
   - [#datascript](https://clojurians.slack.com/archives/C07V8N22C)
   - [#datahike](https://clojurians.slack.com/archives/CB7GJAN0L)
-  - [#crux](https://clojurians.slack.com/archives/CG3AM2F7V)
+  - [#datalevin](https://clojurians.slack.com/archives/C01RD3AF336)
+  - [#xtdb](https://clojurians.slack.com/archives/CG3AM2F7V)
   - [#neo4j](https://clojurians.slack.com/archives/C01BMKFSL14) - currently dead, but maybe you can make it come alive?
