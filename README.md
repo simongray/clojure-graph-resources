@@ -121,10 +121,10 @@ Community
 RDF has a small, but steady Clojure following. People are using Neo4j with Clojure, but not talking much about it. Datomic-like Datalog databases have the most momentum.
 
 * [Clojurians Slack](https://clojurians.slack.com/messages): Where Clojure's most active users seem to hang out.
-  - [#neo4j](https://clojurians.slack.com/archives/C01BMKFSL14)
   - [#rdf](https://clojurians.slack.com/archives/C09GHBXRC)
   - [#datalog](https://clojurians.slack.com/archives/CJ322KHNX)
   - [#datomic](https://clojurians.slack.com/archives/C03RZMDSH)
   - [#datascript](https://clojurians.slack.com/archives/C07V8N22C)
   - [#datahike](https://clojurians.slack.com/archives/CB7GJAN0L)
   - [#crux](https://clojurians.slack.com/archives/CG3AM2F7V)
+  - [#neo4j](https://clojurians.slack.com/archives/C01BMKFSL14) - currently dead, but maybe you can make it come alive?
