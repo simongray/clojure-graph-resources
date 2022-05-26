@@ -62,6 +62,7 @@ Clojure's Datomic-like databases also model data as triplets... or in some cases
   - [ivarref/rewriting-history](https://github.com/ivarref/rewriting-history): A library to rewrite Datomic history (on-prem).
   - [ivarref/yoltq](https://github.com/ivarref/yoltq): An opinionated Datomic queue for building more reliable systems (on-prem).
   - [ivarref/double-trouble](https://github.com/ivarref/double-trouble): Handle duplicate Datomic transactions with ease.
+  - [ivarref/datomic-schema](https://github.com/ivarref/datomic-schema): Simplified writing of Datomic schemas.
   - [ont-app/datomic-client](https://github.com/ont-app/datomic-client): Ports the Datomic Client to the IGraph protocols.
 * [tonsky/datascript](https://github.com/tonsky/datascript): An immutable in-memory database and Datalog query engine in Clojure and ClojureScript.
   - [mpdairy/posh](https://github.com/mpdairy/posh): Posh is a ClojureScript / React library that lets you use a single DataScript database to store your app state.
