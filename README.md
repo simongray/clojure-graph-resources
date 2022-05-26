@@ -103,6 +103,7 @@ Queries
 * [sixthnormal/pullql](https://github.com/sixthnormal/pullql): A GraphQL-like query language for DataScript, optimized for execution across many entities at once.
 * [walkable-server/walkable](https://github.com/walkable-server/walkable): A Clojure(script) SQL library for building APIs: Datomic® (GraphQL-ish) pull syntax, data driven configuration, dynamic filtering with relations in mind.
 * [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia): This library is a full implementation of Facebook's GraphQL specification.
+  - [vlaaad/plusinia](https://github.com/vlaaad/plusinia): Solution to N+1 problem in Lacinia.
 * [graphqlize/graphqlize](https://github.com/graphqlize/graphqlize): A library for creating a GraphQL API for a Postgres or MySQL database.
 * [timrichardt/hicgql](https://github.com/timrichardt/hicgql): GraphQL in Clojure data structures.
 * [ivarref/clj-paginate](https://github.com/ivarref/clj-paginate): Pagination of vectors and maps with Clojure for GraphQL
