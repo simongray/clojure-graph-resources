@@ -117,6 +117,7 @@ Miscellaneous
 * [nwjsmith/generators.graph](https://github.com/nwjsmith/generators.graph): test.check generators for graph data.
 * [jackrusher/mundaneum](https://github.com/jackrusher/mundaneum): A clojure wrapper around WikiData.
 * [Swirrl/cubiql](https://github.com/Swirrl/cubiql): A proof of concept GraphQL service for querying Linked Data Cubes.
+* [esuomi/muotti](https://github.com/esuomi/muotti): A graph-based value transformer library.
 
 ### Personal knowledge graphs
 It is perhaps worth mentioning that several tools have been written in Clojure for making personal knowledge graphs through note-taking. The first one to appear was [Roam Research](https://roamresearch.com/) (proprietary). It has since inspired [Athens Research](https://github.com/athensresearch/athens) (open source, commercial) and [Logseq](https://github.com/logseq/logseq) (open source, community-driven). These tools are all based on libraries listed in the Datalog section.
